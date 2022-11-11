@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470077533276",
+    "project_id": "chatonline-9b38b",
+    "storage_bucket": "chatonline-9b38b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470077533276:android:5824873299c5ea9b1b4a99",
+        "android_client_info": {
+          "package_name": "br.com.bueno.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470077533276-c0on737qh7l4kstqvjssm9se6gc4jbml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeFX-1qr0yCfqusK0tRiJ11VvFdWHHpyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470077533276-c0on737qh7l4kstqvjssm9se6gc4jbml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

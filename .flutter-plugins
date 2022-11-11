@@ -1,0 +1,16 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-4.0.5/
+cloud_firestore_web=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-3.0.5/
+firebase_auth=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-4.1.2/
+firebase_auth_web=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-5.1.2/
+firebase_core=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-2.2.0/
+firebase_core_web=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-2.0.1/
+flutter_plugin_android_lifecycle=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.7/
+google_sign_in=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.4.2/
+google_sign_in_android=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_android-6.1.1/
+google_sign_in_ios=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_ios-5.5.0/
+google_sign_in_web=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.2/
+image_picker=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.8.6/
+image_picker_android=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_android-0.8.5+3/
+image_picker_for_web=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_for_web-2.1.10/
+image_picker_ios=/home/aluno/flutter_linux_3.3.1-stable/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ios-0.8.6+1/
