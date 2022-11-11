@@ -108,7 +108,7 @@ class _ChatScreenState extends State<ChatScreen> {
                             reverse: true,
                             itemCount: snapshot.data?.docs.length,
                             itemBuilder: (context, index) {
-                              List<QueryDocumentSnapshot<Object?>> r = snapshot.data?.docs.reversed.toList();
+                              List r = snapshot.data!.docs.reversed.toList();
                               return ChatMessage(r[index].data);
                             });
                     }
