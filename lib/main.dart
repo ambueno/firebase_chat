@@ -39,24 +39,6 @@ Future<void> _ensureLoggedIn() async {
   }
 }
 
-//final googleSignIn = GoogleSignIn();
-//final auth = FirebaseAuth.instance;
-
-/*Future<void> _ensureLoggedIn() async {
-  // Trigger the Google Authentication flow.
-  final GoogleSignInAccount? googleUser = await googleSignIn.signIn();
-  // Obtain the auth details from the request.
-  final GoogleSignInAuthentication googleAuth = await googleUser!.authentication;
-  // Create a new credential.
-  final OAuthCredential googleCredential = GoogleAuthProvider.credential(
-    accessToken: googleAuth.accessToken,
-    idToken: googleAuth.idToken,
-  );
-  // Sign in to Firebase with the Google [UserCredential].
-  final UserCredential googleUserCredential =
-  await auth.signInWithCredential(googleCredential);
-}*/
-
 _handleSubmitted(String text) async {
   await _ensureLoggedIn();
   _sendMessage(text: text, imgUrl: '');
